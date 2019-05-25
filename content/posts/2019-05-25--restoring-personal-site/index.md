@@ -1,5 +1,5 @@
 ---
-title: How to install, setup and add new content to the personalBlog starter
+title: Restoring my personal site
 subTitle: GatsbyJS starter instruction
 cover: photo-1465070845512-2b2dbdc6df66-cover.jpg
 ---
