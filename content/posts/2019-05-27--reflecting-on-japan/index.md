@@ -2,6 +2,7 @@
 title: Reflecting on Japan
 subTitle: Free Community Plan
 cover: photo-1507915600431-5292809c5ab7-cover.jpg
+category: "travel"
 ---
 
 As I wrote in the [Starter Instalation](/install-personal-blog-starter/) post the starter needs access data to your [Algolia](https://www.algolia.com/) account.

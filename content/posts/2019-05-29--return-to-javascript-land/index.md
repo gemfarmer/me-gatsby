@@ -2,6 +2,7 @@
 title: My return to JavaScript land
 subTitle: JS is more fun than ever!
 cover: photo-1463852247062-1bbca38f7805-cover.jpg
+category: "code"
 ---
 
 * I've been focusing on ruby, rails and the Acro for awhile. The world of JS has come a long way
