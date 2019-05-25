@@ -2,36 +2,14 @@
 title: About
 ---
 
-This is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.
+## Brian Shea Hedberg
 
-The starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.
+I'm a thinker, a dreamer, and a generalist. I am fascinated by how the world works and have fun thinking about what it could be come. This is my personal site, so expect thoughts and ramblings about regenerative ag and transit intermixed with code snippets.
 
-### Standard features:
+![Brian](./Brian.jpg)
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (post list filtering)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* **PWA** (manifest.json, offline support, favicons)
-* Google **Analytics**
-* **Favicons** generator (node script)
-* **Material UI** (@next)
+## whoami? professionally
 
-### Advanced features:
+I'm a friendly, social, and energetic individual, experienced software developer, and novice designer. I'm a dedicated teammate and servant leader. I have a passion for detangling complex systems, connecting disparate disciplines, and tackling mammoth challenges. I'm determined to learn, adapt, and use my knowledge and skill set as a force for good in the world.
 
-* Easy customizable base **styles** via `theme` object (fonts, colors, sizes)
-* **Components** lazy loading (social sharing, comments)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Custom webpack `CommonsChunkPlugin` settings
-* Webpack `BundleAnalyzerPlugin`
-* Contact **form validation** (react-material-ui-form-validator)
-
-## Instructions
-
-For detailed instructions go to [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-personal-blog/).
+[See my projects](/projects)
