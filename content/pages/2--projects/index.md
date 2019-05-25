@@ -5,11 +5,11 @@ title: My Projects
 
 
 ### Acro | [Sprowt Labs](https://www.sprowtlabs.com/) | _Minneapolis, MN_
-![Product shot of Acro](./Acro_product_shot_cropped.jpg)
-
 Co-Founded Sprowt Labs, an IoT company that designs and manufactures an internet-connected appliance for the craft brewing and craft distilling supply chains.
 
 * Architect and primary maintainer of our website and our web application. Major contributor to embedded firmware. Created methods for using our software enabled access point (SoftAP) as well as methods for updating system firmware.
+
+![Product shot of Acro](./Acro_product_shot_cropped.jpg)
 
 #### General Skills & Achievements:
 * Product development for patented product that combines several bespoke mechanical functions (steeping, draining, aerating, humidifying, cooling, kilning)
